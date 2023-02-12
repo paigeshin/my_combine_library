@@ -1,7 +1,3 @@
-# my_combine_library
-
-# V1
-
 # Functional Programming
 
 ### Not Functional Programming
